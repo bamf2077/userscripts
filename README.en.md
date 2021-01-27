@@ -5,7 +5,7 @@
 
 ## Introduction
 
-A bunch of handy user scripts with multiple purposes, applicable to userscript management browser extensions such as [Tampermonkey](https://www.tampermonkey.net/ "Tampermonkey"), [Greasemonkey](https://www.greasespot.net/ "Greasemonkey"). The scripts are written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript | MDN") language.
+A bunch of handy user scripts with multiple purposes, applicable to userscript management browser extensions such as [Tampermonkey](https://www.tampermonkey.net/ "Tampermonkey"), [Greasemonkey](https://www.greasespot.net/ "Greasemonkey"). The scripts are written in [![JavaScript](https://img.shields.io/github/languages/top/francis-zhao/userscripts?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript | MDN") language.
 
 <br>
 

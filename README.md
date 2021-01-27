@@ -5,7 +5,7 @@
 
 ## 简介
 
-一系列方便实用的用户脚本，适用于 [Tampermonkey](https://www.tampermonkey.net/ "Tampermonkey")、[Greasemonkey](https://www.greasespot.net/ "Greasemonkey") 等用户脚本管理类浏览器扩展。由 [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript "JavaScript | MDN") 语言写成。
+一系列方便实用的用户脚本，适用于 [Tampermonkey](https://www.tampermonkey.net/ "Tampermonkey")、[Greasemonkey](https://www.greasespot.net/ "Greasemonkey") 等用户脚本管理类浏览器扩展。由 [![JavaScript](https://img.shields.io/github/languages/top/francis-zhao/userscripts?style=flat-square)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript "JavaScript | MDN") 语言写成。
 
 <br>
 
