@@ -11,7 +11,7 @@
 
 ## 项目
 
-### [国网网络大学小助手](https://github.com/francis-zhao/userscripts/blob/master/src/js/sgcc-online-university-assistant.user.js)
+### [国网网络大学小秘](https://github.com/francis-zhao/userscripts/blob/master/src/js/sgcc-online-university-assistant.user.js)
 
 什么？今年又双叒叕要学网络大学攒积分？还不快试试小助手鸭，只需输入员工 ERP 编号，全自动选课、刷课，不能学的课程自动退课。一键操作，快捷省心，谁用谁知道！
 
