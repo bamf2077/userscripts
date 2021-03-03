@@ -13,7 +13,11 @@
 
 ### [国网网络大学小秘](https://github.com/francis-zhao/userscripts/blob/master/src/js/sgcc-online-university-assistant.user.js)
 
-什么？今年又双叒叕要学网络大学攒积分？还不快试试小助手鸭，只需输入员工 ERP 编号，全自动选课、刷课，不能学的课程自动退课。一键操作，快捷省心，谁用谁知道！
+什么？今年又双叒叕要学网络大学攒积分？还不快试试小秘鸭，只需输入员工 ERP 编号，全自动选课、刷课，不能学的课程自动退课。一键操作，快捷省心，谁用谁知道！
+
+`/dist/js/sgcc-online-university-assistant.user.js` 为 2020 年 3 月最终版，截至 2021 年 3 月仍然可用。
+
+`/src/js/sgcc-online-university-assistant.user.js` 为 2021 年 3 月修改版，未经测试，后续也无继续更新计划。
 
 ⚠ 注意：国家电网有限公司网络大学 (http://wldx.sgcc.com.cn) 仅支持信息内网访问，请将该脚本下载到信息内网存储设备中并复制到信息内网计算机中安装使用。
 
