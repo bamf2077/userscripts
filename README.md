@@ -19,7 +19,7 @@
 
 `/src/js/sgcc-online-university-assistant.user.js` 为 2021 年 3 月修改版，未经测试，后续也无继续更新计划。
 
-⚠ 注意：国家电网有限公司网络大学 (http://wldx.sgcc.com.cn) 仅支持信息内网访问，请将该脚本下载到信息内网存储设备中并复制到信息内网计算机中安装使用。
+⚠ 注意：国家电网有限公司网络大学 (http://wldx.sgcc.com.cn) 仅支持信息内网访问，请将该脚本下载到信息内网存储设备中并复制到信息内网计算机中安装使用。具体使用方法请参考：https://n2o.io/go?page=userscripts&ref=github
 
 <br>
 <br>
