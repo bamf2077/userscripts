@@ -1,14 +1,19 @@
 {
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "lf",
   "overrides": [
     {
-      "files": ["*.js", "*.jsx", "*.ts", "*.tsx"],
+      "files": ["*.md", "*.markdown"],
       "options": {
-        "singleQuote": true,
-        "jsxSingleQuote": true
+        "singleQuote": false
       }
     },
     {
-      "files": ["*.html"],
+      "files": ["*.py"],
       "options": {
         "tabWidth": 4
       }

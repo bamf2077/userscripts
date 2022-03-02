@@ -1,0 +1,18 @@
+{
+  "name": "userscripts",
+  "version": "2022.2.21",
+  "homepage": "https://n2o.io/go?page=userscripts",
+  "license": "MIT",
+  "author": "Francis Zhao <francis@n2o.io>",
+  "repository": "github:francis-zhao/userscripts",
+  "scripts": {
+    "eslint": "eslint --ext .js,ts --fix .",
+    "prettier": "prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
