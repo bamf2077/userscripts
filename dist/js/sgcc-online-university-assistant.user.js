@@ -82,14 +82,12 @@
         return validateUserID(getQueryString('us_id'))
           ? getQueryString('us_id')
           : null;
-        break;
       case 'lesson_id':
         return getQueryString('le_id')
           ? getQueryString('le_id')
           : getQueryString('tl_id')
           ? getQueryString('tl_id')
           : null;
-        break;
       default:
         return null;
     }

@@ -1,0 +1,36 @@
+# Git Ignoring
+# https://git-scm.com/docs/gitignore
+
+# Package directories and files
+node_modules
+package-lock.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+yarn.lock
+bun.lockb
+.pnpm
+.pnpmfile.*
+.yarn
+.pnp.*
+
+# Local files
+*.local
+
+# Output directories
+dist
+dist-ssr
+
+# Log/Temp/Cache directories and files
+logs
+.cache
+*.bak
+*.log
+*.old
+*.tmp
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
